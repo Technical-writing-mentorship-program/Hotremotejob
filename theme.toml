@@ -1,4 +1,4 @@
-name = "Hugoplate"
+name = "Hotremote-job"
 license = "MIT"
 licenselink = "https://github.com/zeon-studio/hugoplate/blob/main/LICENSE"
 description = "Hugoplate is a free starter template built with Hugo, and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
@@ -29,7 +29,7 @@ features = [
 ]
 
 [author]
-name = "Zeon Studio"
+name = "Wisdom"
 homepage = "https://zeon.studio"
 
 [original]

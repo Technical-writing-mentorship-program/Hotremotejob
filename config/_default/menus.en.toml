@@ -7,12 +7,12 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Community"
 pageRef = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "Podcast"
 pageRef = "/elements"
 weight = 3
 
@@ -22,28 +22,18 @@ name = "Pages"
 
 [[main]]
 parent = "Pages"
-name = "Blog"
+name = "Jobs"
 pageRef = "/blog"
 
 [[main]]
 parent = "Pages"
-name = "Contact"
-pageRef = "/contact"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
+name = "Team"
 pageRef = "/authors"
 
 [[main]]
 parent = "Pages"
-name = "Categories"
+name = "Webiners"
 pageRef = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-pageRef = "/404"
 
 
 # footer menu
@@ -53,7 +43,7 @@ pageRef = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
+name = "Podcast"
 pageRef = "/elements"
 weight = 2
 
