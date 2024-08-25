@@ -7,8 +7,6 @@ Thumbs.db
 npm-debug.log
 node_modules
 builds
-package-lock.json
-resources
 .hugo_build.lock
 jsconfig.json
 hugo_stats.json

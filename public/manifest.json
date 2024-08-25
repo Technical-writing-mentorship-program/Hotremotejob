@@ -1,0 +1,14 @@
+{
+  "name": "John Doe's Blog",
+  "short_name": "Blog",
+  "description": "Just for fun!",
+  "icons": [
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1793d1",
+  "theme_color": "#1793d1"
+}
