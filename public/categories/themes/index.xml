@@ -6,8 +6,15 @@
     <description>Recent content in Themes on Blonde</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Test</title>
+      <link>http://localhost:1313/post/image-test/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/image-test/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla dui eu mi iaculis, sit amet congue lacus porta. Ut nec porta ex. Morbi nec massa sodales, finibus urna et, condimentum odio. Nulla ornare est ac egestas varius. Duis faucibus sapien non risus pretium vestibulum. Ut rutrum lorem ut euismod maximus. Vestibulum metus urna, ultrices nec sapien sit amet, malesuada tincidunt quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+    </item>
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/post/markdown-syntax/</link>

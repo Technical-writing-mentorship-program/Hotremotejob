@@ -8,10 +8,16 @@
     <loc>http://localhost:1313/archives/2020/08/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/image-test/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/remote/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -20,13 +26,13 @@
     <loc>http://localhost:1313/tags/themes/</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/themes/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/2019/03/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/css/</loc>
@@ -42,9 +48,6 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/privacy/</loc>
