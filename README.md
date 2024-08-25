@@ -67,14 +67,14 @@ Let’s break down each part:
 
 Example:
 ```yaml
-tags: ["remote", "full-time", "JavaScript"]
+tags: ["Php", "Android", "JavaScript"]
 ```
 
 **Categories** work similarly to tags but are often broader in scope. If your job board uses categories, you can add them in a similar way:
 
 Example:
 ```yaml
-categories: ["Development", "Design"]
+categories: ["Full-Time", "Freelance", "Part-Time", "Contract"]
 ```
 
 If categories are not set up, you can ignore this step. Tags are usually sufficient for most job board needs.
