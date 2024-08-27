@@ -16,3 +16,5 @@ Build your site
 ```
 npm run build
 ```
+
+Interested in contributing to this board? You can check out the [Contributing guide](https://github.com/Technical-writing-mentorship-program/Hotremotejob/edit/main/CONTRIBUTING.md) to get started.
