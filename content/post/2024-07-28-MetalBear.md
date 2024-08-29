@@ -1,7 +1,6 @@
 ---
 author: "Prince (Aahil) Onyeanuna"
 title: "MetalBear Writers Program"
-image: "img/prism.jpg"
 draft: false
 date: 2024-08-28
 description: "The MetalBear Writers program is focused on supporting developers in sharing knowledge with the community through educational, hands-on & opinionated content. We hope to provide a vast array of resources that empower developers everywhere to code, run, and test software applications smoothly.
