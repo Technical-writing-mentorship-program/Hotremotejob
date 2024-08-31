@@ -15,4 +15,4 @@ Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges
 
 **The Position:** The Digital Business Unit is seeking a Senior Technical Writer, to provide support to our Processors group located at ADI’s Bilisim Vadisi Vadi Istanbul office. The candidate will be self-motivated, willing to learn exciting innovative technologies and develop new products, but also be able to work effectively within a talented group of individuals across multiple locations. The candidate will join a team of Software and Hardware engineers, who are implementing state of the art products.
 
-**Apply using this link**: https://www.linkedin.com/jobs/view/3960608786/?refId=ezOjqPnHe5vjdWsBkAbI7g%3D%3D&trackingId=ezOjqPnHe5vjdWsBkAbI7g%3D%3D
+[Apply Now]( https://www.linkedin.com/jobs/view/3960608786/?refId=ezOjqPnHe5vjdWsBkAbI7g%3D%3D&trackingId=ezOjqPnHe5vjdWsBkAbI7g%3D%3D)
