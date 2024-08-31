@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to the first open-source job board. This guide will walk you through the steps to add new content, including how to manage tags, categories, and metadata for job postings or other content.
 
+**If you'd prefere a walk through of this process, you can watch this video here**: https://www.loom.com/share/cad83a853a504a6d91774c37a7c4dc04?sid=b6ce1ae1-b3c5-480f-a5bb-aa619d2b25e9
+
 ## Adding Content
 To add new content, you'll need to create a new Markdown file in the appropriate directory. The filename should be descriptive and follow the format `YYYY-MM-DD-title.md`.
 
