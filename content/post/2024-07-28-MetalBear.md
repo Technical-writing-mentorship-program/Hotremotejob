@@ -36,4 +36,4 @@ We welcome writers of all backgrounds and experience levels. Whether you're a se
 - **Visibility**: Boost your presence in global developer communities.
 - **Portfolio Building**: Showcase your writing and technical skills to a broader audience.
 
-Apply using this link: https://forms.gle/3ZRrJbDBAwQSxnW16
+**Apply using this link:** https://forms.gle/3ZRrJbDBAwQSxnW16

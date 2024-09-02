@@ -14,4 +14,4 @@ We are seeking an experienced support engineer with independent problem-solving 
 
 You will be part of our Linea Support team, providing support for the Linea blockchain. Expect to cover various support request types, from answering simple questions to troubleshooting complex issues on chain, including dApps end-users and Linea Partners. You need to be comfortable with understanding key concepts of zkEVM and its ecosystem, especially zkRollup, troubleshooting customer scripts and reproducing issues, while working closely with the engineering and product teams to relay user feedback and ensure continuous improvement of Linea blockchain.
 
-Apply using this link: https://consensys.io/open-roles/5927476#grnhse_app
+**Apply using this link:** https://consensys.io/open-roles/5927476#grnhse_app
