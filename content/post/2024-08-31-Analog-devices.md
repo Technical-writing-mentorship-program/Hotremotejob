@@ -4,7 +4,6 @@ title: "Senior Technical Writer"
 draft: false
 date: 2024-08-31
 description: "The Digital Business Unit is seeking a Senior Technical Writer, to provide support to our Processors group located at ADI’s Bilisim Vadisi Vadi Istanbul office. The candidate will be self-motivated, willing to learn exciting innovative technologies and develop new products, but also be able to work effectively within a talented group of individuals across multiple locations. The candidate will join a team of Software and Hardware engineers, who are implementing state of the art products."
-tags: ["Technical Writer","Full-time", "Mid-Senior level"]
 Categories: [
     "Remote"
 ]

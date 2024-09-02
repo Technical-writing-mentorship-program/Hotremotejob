@@ -4,7 +4,6 @@ title: "Technical Support Engineer"
 draft: false
 date: 2024-08-29
 description: "We are seeking an experienced support engineer with independent problem-solving capabilities. A support engineer who is eager to become an expert on Consensys blockchain technologies. The candidate will work closely with Customer Success Leaders, internal and external Engineering teams for the products he/she will be engaged in. Your work will ensure the Customer Success team meets all its commitments and has the knowledge and capabilities to deliver best-in-class support to our customers."
-tags: ["Customer Success","Full-time"]
 Categories: [
     "EMEA"
 ]

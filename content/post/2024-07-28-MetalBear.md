@@ -6,7 +6,6 @@ date: 2024-08-28
 description: "The MetalBear Writers program is focused on supporting developers in sharing knowledge with the community through educational, hands-on & opinionated content. We hope to provide a vast array of resources that empower developers everywhere to code, run, and test software applications smoothly.
 
 We work with authors and developers to produce high-quality content on open source, cloud software development, DevOps, Developer Experience, Platform Engineering, backend engineering, and more. We'll pay you for any content that gets published, and all content is credited to the authors and promoted across our social media, community channels, and website."
-tags: ["Technical Writing", "Freelance"]
 Categories: [
     "Remote",
     "Write-for-us"
